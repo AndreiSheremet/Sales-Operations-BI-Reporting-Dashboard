@@ -119,7 +119,7 @@ It includes:
 - Cleaning actions performed
 - Reporting limitations
 
-![Post-Cleaning Data Quality Summary](screenshots/Post_cleaning_summary.png)
+![Post-Cleaning Data Quality Summary](screenshots/Post-cleaning_summary.png)
 
 ## Data Quality Findings
 
