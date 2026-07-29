@@ -87,7 +87,7 @@ It includes:
 - Opportunities by deal stage
 - Interactive filters for sector, product, and regional office
 
-![Sales & Operations Overview](screenshots/01_overview.png)
+![Sales & Operations Overview](screenshots/Sales overview.png)
 
 ### 2. Sales Teams Performance
 
@@ -101,7 +101,7 @@ It includes:
 - Sales Agents by Won Revenue
 - Interactive filters for regional office, product, and manager
 
-![Sales Teams Performance](screenshots/02_sales_teams_performance.png)
+![Sales Teams Performance](screenshots/Sales teams.png)
 
 ### 3. Post-Cleaning Data Quality Summary
 
@@ -119,7 +119,7 @@ It includes:
 - Cleaning actions performed
 - Reporting limitations
 
-![Post-Cleaning Data Quality Summary](screenshots/03_data_quality_summary.png)
+![Post-Cleaning Data Quality Summary](screenshots/Post-cleaning summary.png)
 
 ## Data Quality Findings
 
